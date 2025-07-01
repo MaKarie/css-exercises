@@ -1,0 +1,10 @@
+.container>.text:nth-child(1) {
+    color: red;
+    background-color: yellow;
+    font-size: 20px; text-align: center;
+}
+.container>.text:nth-child(2) {
+    color: red;
+    background-color: yellow;
+    font-size: 20px; text-align: center;
+}
